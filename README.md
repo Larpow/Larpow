@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Larpow
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning java in my uni
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+want to sleep
 
 <!---
 Larpow/Larpow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
